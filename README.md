@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋, I'm Soju Saji
 
-<!--
-**Sojusaji/Sojusaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full-Stack MERN Developer specializing in building clean, responsive, efficient and scalable web applications. 
 
-Here are some ideas to get you started:
+- 🌱 I’m currently sharpening my skills in **MongoDB, Express.js, React.js, and Node.js**.
+- 💼 Check out my pinned repositories below to see my full-stack projects, e-commerce platforms, and database architectures.
+- 📫 How to reach me: [LinkedIn](https://in/soju-saji) | [Portfolio](https://sojusaji.github.io/portfolio/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+- **Frontend:** React, Vite, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3
+- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication, Mongoose
+- **Database:** MongoDB, MongoDB Atlas
+- **Tools:** Git, GitHub, Postman, Antigravity IDE, VS Code
